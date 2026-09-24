@@ -1,0 +1,10 @@
+C:\Users\m303\Documents\GitHub\115_1__C_sharp\115_09_24\tutorial2-2\tutorial2-2\obj\Debug\tutorial2-2.csproj.AssemblyReference.cache
+C:\Users\m303\Documents\GitHub\115_1__C_sharp\115_09_24\tutorial2-2\tutorial2-2\obj\Debug\tutorial2_2.Form1.resources
+C:\Users\m303\Documents\GitHub\115_1__C_sharp\115_09_24\tutorial2-2\tutorial2-2\obj\Debug\tutorial2_2.Properties.Resources.resources
+C:\Users\m303\Documents\GitHub\115_1__C_sharp\115_09_24\tutorial2-2\tutorial2-2\obj\Debug\tutorial2-2.csproj.GenerateResource.cache
+C:\Users\m303\Documents\GitHub\115_1__C_sharp\115_09_24\tutorial2-2\tutorial2-2\obj\Debug\tutorial2-2.csproj.CoreCompileInputs.cache
+C:\Users\m303\Documents\GitHub\115_1__C_sharp\115_09_24\tutorial2-2\tutorial2-2\bin\Debug\tutorial2-2.exe.config
+C:\Users\m303\Documents\GitHub\115_1__C_sharp\115_09_24\tutorial2-2\tutorial2-2\bin\Debug\tutorial2-2.exe
+C:\Users\m303\Documents\GitHub\115_1__C_sharp\115_09_24\tutorial2-2\tutorial2-2\bin\Debug\tutorial2-2.pdb
+C:\Users\m303\Documents\GitHub\115_1__C_sharp\115_09_24\tutorial2-2\tutorial2-2\obj\Debug\tutorial2-2.exe
+C:\Users\m303\Documents\GitHub\115_1__C_sharp\115_09_24\tutorial2-2\tutorial2-2\obj\Debug\tutorial2-2.pdb
