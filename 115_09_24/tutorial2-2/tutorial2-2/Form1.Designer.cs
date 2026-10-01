@@ -33,7 +33,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.button1.BackColor = System.Drawing.Color.GhostWhite;
             this.button1.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button1.Location = new System.Drawing.Point(325, 157);
             this.button1.Name = "button1";
